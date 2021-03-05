@@ -1,0 +1,25 @@
+{
+  "window.zoomLevel": 3,
+  "editor.formatOnType": true,
+  "editor.mouseWheelZoom": true,
+  "files.autoSave": "afterDelay",
+  "explorer.confirmDelete": false,
+  "window.titleBarStyle": "custom",
+  "editor.cursorBlinking": "smooth",
+  "emmet.triggerExpansionOnTab": true,
+  "explorer.confirmDragAndDrop": false,
+  "vetur.validation.templateProps": true,
+  "emmet.showSuggestionsAsSnippets": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "Material Theme Darker",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "vetur.experimental.templateInterpolationService": true,
+  "emmet.includeLanguages": {
+    "vue-html": "html",
+    "html": "html",
+    "javascript": "javascriptreact",
+    "typescript": "typescriptreact",
+    "svelte": "html"
+  }
+}
