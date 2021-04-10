@@ -1,6 +1,8 @@
 #!/bin/bash
 
 ## Install these plugins
+## chmod u+x ./ext.sh && bash ./ext.sh
+
 code --list-extensions | xargs -L 1 echo code --install-extension
 code --install-extension CoenraadS.bracket-pair-colorizer-2
 code --install-extension formulahendry.auto-close-tag
