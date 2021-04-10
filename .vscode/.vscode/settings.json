@@ -1,34 +1,40 @@
 {
-  "workbench.colorTheme": "Gruvbox Dark Soft",
-  "workbench.iconTheme": "material-icon-theme",
-  "[json]": {
+    "workbench.colorTheme": "Gruvbox Dark Soft",
+    "workbench.iconTheme": "material-icon-theme",
+    "[json]": {
 
-      "editor.quickSuggestions": {
-          "strings": true
-      },
-      "editor.suggest.insertMode": "replace"
-  },
-  
-      "window.zoomLevel": 3,
-      "editor.formatOnType": true,
-      "editor.mouseWheelZoom": true,
-      "files.autoSave": "afterDelay",
-      "explorer.confirmDelete": false,
-      "window.titleBarStyle": "custom",
-      "editor.cursorBlinking": "smooth",
-      "emmet.triggerExpansionOnTab": true,
-      "explorer.confirmDragAndDrop": false,
-      "vetur.validation.templateProps": true,
-      "emmet.showSuggestionsAsSnippets": true,
-      "typescript.updateImportsOnFileMove.enabled": "always",
-      "javascript.updateImportsOnFileMove.enabled": "always",
-      "vetur.experimental.templateInterpolationService": true,
-      "emmet.includeLanguages": {
-        "vue-html": "html",
-        "html": "html",
-        "javascript": "javascriptreact",
-        "typescript": "typescriptreact",
-        "svelte": "html"
-      }
+        "editor.quickSuggestions": {
+            "strings": true
+        },
+        "editor.suggest.insertMode": "replace"
+    },
     
+        "window.zoomLevel": 3,
+        "editor.formatOnType": true,
+        "editor.mouseWheelZoom": true,
+        "files.autoSave": "afterDelay",
+        "explorer.confirmDelete": false,
+        "window.titleBarStyle": "custom",
+        "editor.cursorBlinking": "smooth",
+        "emmet.triggerExpansionOnTab": true,
+        "explorer.confirmDragAndDrop": false,
+        "vetur.validation.templateProps": true,
+        "emmet.showSuggestionsAsSnippets": true,
+        "typescript.updateImportsOnFileMove.enabled": "always",
+        "javascript.updateImportsOnFileMove.enabled": "always",
+        "vetur.experimental.templateInterpolationService": true,
+        "emmet.includeLanguages": {
+          "vue-html": "html",
+          "html": "html",
+          "javascript": "javascriptreact",
+          "typescript": "typescriptreact",
+          "svelte": "html"
+        },
+        "editor.linkedEditing": true,
+        "launch": {
+        
+            "configurations": [],
+            "compounds": []
+        }
+      
 }
